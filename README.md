@@ -2,9 +2,9 @@
 
 A small tool for everyone who feels the need to get a Nobel Prize in literature
 
-* __scrapper.ipynb__ is a web scrapping  tool for getting Bob Dylan song lyrics. I haven't use scrapy, but biuld a simple one using the class __Song__ from [Sebastian Raschka's github](https://github.com/rasbt/datacollect/tree/master/collect_lyrics)
+* __scrapper.ipynb__ is a web scrapping  tool for getting Bob Dylan song lyrics. I haven't use scrapy, but build a simple one using the class __Song__ from [Sebastian Raschka's github](https://github.com/rasbt/datacollect/tree/master/collect_lyrics)
 
-* __TheNobelizer.ipynb__ is the lyrics generator consisting of a Recurrent Neural Network that predicts the next character in a sequence after it has been trained on Bob Dylan's songs. LTSM type of Recurrent Neural Networks seem to be the trend in sequence-to-sequence problemns, see, for example, [this article](https://arxiv.org/abs/1409.3215)
+* __TheNobelizer.ipynb__ is the lyrics generator consisting of a Recurrent Neural Network that predicts the next character in a sequence after it has been trained on Bob Dylan's songs. LTSM type of Recurrent Neural Networks seem to be the trend in sequence-to-sequence problems, see, for example, [this article](https://arxiv.org/abs/1409.3215)
 
 Some examples of generated lyrics:
 
